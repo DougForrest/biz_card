@@ -1,7 +1,7 @@
 # Site settings
 title: Doug Forrest
 description: 'Business Card Page'
-url: 'https://github.com/DougForrest/biz_card'
+url: 'https://dougforrest.github.io/biz_card/'
 baseurl: 'biz_card'
 profilepic: '/images/IMG_0782_400x.jpg'
 bkimage: '/images/bk1.jpg'
