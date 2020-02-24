@@ -7,12 +7,15 @@ profilepic: '/images/IMG_0782_400x.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: '370533a5f8.js'
+qr_code: '/images/qr.png'
+
 
 author:
   name: 'Doug Forrest'
   email: DougForrest@gmail.com
   github_username:  dougforrest
   linkedin_username: doug-forrest-6808a850
+  
 
 
 # Build settings
