@@ -5,10 +5,10 @@
   gh_user: dougforrest
   repo: plaquebox-paper
   img: /images/NA_4882_02_AB_2_24_4.jpg
-  desc: A fork of the Repo for Tang et al, bioRxiv 454793 (2018), I use apply transfer learning via the fast.ai library to improve model results.
+  desc: A fork of the Repo for Tang et al, bioRxiv 454793 (2018), I apply transfer learning via the fast.ai library to improve model results.
 
 - name: Volume Modulation
   gh_user: dougforrest
   repo: pi_volmod
   img: /images/pi2.png
-  desc: Monitor the volume on a HiFi or home theater using a Raspberry Pi and turn it down when it gets too loud. 
+  desc: Monitor the volume on a HiFi or home theater using a Raspberry Pi and automatcally turn it down when it gets too loud. 
