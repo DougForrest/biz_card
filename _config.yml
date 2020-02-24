@@ -3,10 +3,10 @@ title: Doug Forrest
 description: 'Business Card Page'
 url: 'https://github.com/DougForrest/biz_card'
 baseurl: ''
-profilepic: '/images/profile.jpg'
+profilepic: '/images/IMG_0782_400x.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: '370533a5f8.js'
 
 author:
   name: 'Doug Forrest'
