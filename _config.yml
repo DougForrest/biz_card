@@ -2,7 +2,7 @@
 title: Doug Forrest
 description: 'Business Card Page'
 url: 'https://github.com/DougForrest/biz_card'
-baseurl: ''
+baseurl: 'biz_card'
 profilepic: '/images/IMG_0782_400x.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
